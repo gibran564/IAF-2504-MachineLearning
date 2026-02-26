@@ -16,7 +16,7 @@
 | **Alumno** | Christian Gibrán Espituñal Villanueva |
 | **No. de Control** | 20041243 |
 | **Docente** | José Gabriel Rodríguez Rivas |
-| **Carrera** | Ingeniería Informática |
+| **Carrera** | Ingeniería en Sistemas Computacionales |
 | **Instituto** | Instituto Tecnológico de Durango |
 | **Grupo** | 8IA |
 | **SATCA** | 3 - 2 - 5 |
@@ -198,7 +198,7 @@ jupyter notebook
 
 **Christian Gibrán Espituñal Villanueva** — No. de Control: `20041243`
 
-Ingeniería Informática — Instituto Tecnológico de Durango
+Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Durango
 
 *Asignatura IAF-2504 — Docente: José Gabriel Rodríguez Rivas*
 
