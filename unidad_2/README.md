@@ -83,6 +83,8 @@ unidad_2/
 ├── Practica_5_Maquinas_de_Soporte_SVR_Autos.ipynb
 ├── Practica_6_XGBoost_Regresion_Autos.ipynb
 │
+├── requirements.txt
+│
 └── README.md
 ```
 

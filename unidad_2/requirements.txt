@@ -1,0 +1,34 @@
+
+# =============================================================
+#  Unidad 2 — Machine Learning y Deep Learning (IAF-2504)
+#  Instituto Tecnológico de Durango — TecNM
+#  Alumno: Christian Gibrán Espituñal Villanueva  |  20041243
+# =============================================================
+
+# ── Núcleo científico ─────────────────────────────────────────
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13
+
+# ── Visualización ─────────────────────────────────────────────
+matplotlib>=3.8
+seaborn>=0.13
+
+# ── Machine Learning ──────────────────────────────────────────
+scikit-learn>=1.4
+xgboost>=2.0
+
+# ── Modelos estadísticos (LOWESS, pruebas de normalidad) ──────
+statsmodels>=0.14
+
+# ── Deep Learning / Detección de GPU ──────────────────────────
+# Instalar PyTorch según tu hardware (ver instrucciones abajo):
+#   CPU:  pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   CUDA: pip install torch --index-url https://download.pytorch.org/whl/cu124
+torch>=2.2
+
+# ── Entorno Jupyter ───────────────────────────────────────────
+jupyter>=1.0
+jupyterlab>=4.0
+ipykernel>=6.0
+ipywidgets>=8.0

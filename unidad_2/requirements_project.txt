@@ -1,0 +1,24 @@
+# ─── Proyecto Final — Predicción de Diabetes ─────────────────────────────────
+# IAF-2504 · Machine Learning y Deep Learning · Instituto Tecnologico de Durango
+# ──────────────────────────────────────────────────────────────────────────────
+
+# Núcleo científico
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.13.0
+
+# Visualización
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Dataset
+kagglehub>=0.2.0
+
+# Entorno Jupyter
+ipython>=8.0.0
+jupyter>=1.0.0
+notebook>=7.0.0
