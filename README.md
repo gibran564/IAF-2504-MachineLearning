@@ -4,7 +4,7 @@
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-IAF--2504-6366f1?style=for-the-badge&logo=python&logoColor=white)
 ![DL](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-0ea5e9?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-f59e0b?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-f59e0b?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-En%20Progreso-10b981?style=for-the-badge)
 
 ---
@@ -52,14 +52,14 @@ Este repositorio contiene el **portafolio de evidencias** de la asignatura *Mach
 <summary><strong>Unidad 2 — Aprendizaje Supervisado: Regresión</strong></summary>
 
 | Tema | Algoritmo | Estado |
-|------|-----------|--------|
-| 2.1.1 | Regresión Lineal Simple | ⬜ |
-| 2.1.2 | Regresión Polinómica | ⬜ |
-| 2.2.1 | Regresión Lineal Múltiple | ⬜ |
-| 2.2.2 | Regresión Polinomial Múltiple | ⬜ |
-| 2.2.3 | Árboles de Regresión | ⬜ |
-| 2.2.4 | Random Forest Regresión | ⬜ |
-| 2.2.5 | SVM Regresión | ⬜ |
+|------|-----------|--|
+| 2.1.1 | Regresión Lineal Simple | ✅ |
+| 2.1.2 | Regresión Polinómica | ✅ |
+| 2.2.1 | Regresión Lineal Múltiple | ✅ |
+| 2.2.2 | Regresión Polinomial Múltiple | ✅ |
+| 2.2.3 | Árboles de Regresión | ✅ |
+| 2.2.4 | Random Forest Regresión | ✅ |
+| 2.2.5 | SVM Regresión | ✅ |
 | 2.2.6 | Validación Cruzada | ⬜ |
 
 </details>
